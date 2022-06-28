@@ -1,0 +1,28 @@
+logs/
+typings/
+node_modules/
+package-lock.json
+coverage/
+client/bundles/*
+.idea/
+run/
+.DS_Store
+*.sw*
+*.un~
+test/**/*.js
+test/**/*.js.map
+.vscode/
+*.map
+*.jsx
+
+# next.js
+/.next/
+/_next/
+/out/
+.next
+_static
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
